@@ -14,6 +14,7 @@ python3 -m venv logrocket_env
 
 Then, activate it:
 source logrocket_env/bin/activate
+
 cd into the venv and clone the project from GitHub:
 git clone https://github.com/alansealy0914/DPRX3/tree/dprx3_dev
 
